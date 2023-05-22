@@ -13,82 +13,140 @@
  *
  **********************************************************************/
 
-export interface SampleCardProps {
-  className?: any;
-  metadata: any;
-}
-
-export interface SampleCardGridProps {
-  className?: any;
-}
 
 export interface IvendpayNftProps {
   className?: any;
 }
 
-export interface Frame7Props {
+
+export interface TopViewProps {
   className?: any;
 }
 
-export interface Frame13Props {
-  className?: any;
-}
-
-export interface Frame39895Props {
-  className?: any;
-}
-
-export interface Frame39900Props {
-  className?: any;
-}
-
-export interface Frame39902Props {
-  className?: any;
-}
-
-export interface Frame39909Props {
-  className?: any;
-}
-
-export interface Frame39913Props {
-  className?: any;
-}
-
-export interface Frame39917Props {
-  className?: any;
-}
-
-export interface Frame39923Props {
-  className?: any;
-}
-
-export interface Frame39921Props {
-  className?: any;
-}
-
-export interface Frame39888Props {
-  className?: any;
-}
 
 export interface Button1Props {
   className?: any;
 }
 
-export interface CardImageProps {
+
+export interface AboutViewProps {
   className?: any;
 }
+
+
+export interface CardImageProps {
+  className?: any;
+  image: any;
+}
+
+
+export interface UniqueViewProps {
+  className?: any;
+}
+
+
+export interface CompetitorComparisonViewProps {
+  className?: any;
+}
+
 
 export interface TableNameProps {
   className?: any;
 }
 
+
+export interface InvestorsViewProps {
+  className?: any;
+}
+
+
 export interface InvestorCardProps {
   className?: any;
 }
 
+
+export interface BuyReasonsProps {
+  className?: any;
+}
+
+
 export interface ReasonCardProps {
   className?: any;
 }
+
+
+export interface EmailViewProps {
+  className?: any;
+}
+
+
+export interface SampleCardProps {
+  className?: any;
+  metadata: any;
+}
+
+
+export interface SampleCardGridProps {
+  className?: any;
+}
+
+
+export interface Frame7Props {
+  className?: any;
+}
+
+
+export interface Frame13Props {
+  className?: any;
+}
+
+
+export interface Frame39895Props {
+  className?: any;
+}
+
+
+export interface Frame39900Props {
+  className?: any;
+}
+
+
+export interface Frame39902Props {
+  className?: any;
+}
+
+
+export interface Frame39909Props {
+  className?: any;
+}
+
+
+export interface Frame39913Props {
+  className?: any;
+}
+
+
+export interface Frame39917Props {
+  className?: any;
+}
+
+
+export interface Frame39923Props {
+  className?: any;
+}
+
+
+export interface Frame39921Props {
+  className?: any;
+}
+
+
+export interface Frame39888Props {
+  className?: any;
+}
+
+
+
 
 export interface PointProps {
   className?: any;
@@ -153,18 +211,17 @@ export interface PointProps {
   Number: any;
 }
 
+
 export interface LaunchpadAndExchangesViewProps {
   className?: any;
 }
+
 
 export interface BuyViewProps {
   className?: any;
 }
 
-export interface BuyOptionProps {
-  className?: any;
-}
 
-export interface EmailViewProps {
+export interface BuyOptionProps {
   className?: any;
 }
