@@ -13,7 +13,6 @@
  **********************************************************************/
 
 import React from 'react';
-import { Helmet } from 'react-helmet-async';
 import { styled } from '@mui/material/styles';
 import { PointProps } from 'src/types';
 
@@ -96,9 +95,6 @@ const Text: any = styled('div')({
 function Point(props: PointProps): JSX.Element {
   return (
     <Point1 className={props.className}>
-      <Helmet>
-        <title>Point</title>
-      </Helmet>
       <PointNumber>{`1`}</PointNumber>
       <Text>
         <TextSpan1>{`Mint NFT by connecting a wallet using `}</TextSpan1>
