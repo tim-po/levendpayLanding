@@ -16,9 +16,11 @@
 
 
 
+
 export interface IvendpayNftProps {
   className?: any;
 }
+
 
 
 
@@ -30,6 +32,7 @@ export interface TopViewProps {
 
 
 
+
 export interface Button1Props {
   className?: any;
 }
@@ -37,9 +40,11 @@ export interface Button1Props {
 
 
 
+
 export interface AboutViewProps {
   className?: any;
 }
+
 
 
 
@@ -52,9 +57,11 @@ export interface CardImageProps {
 
 
 
+
 export interface UniqueViewProps {
   className?: any;
 }
+
 
 
 
@@ -66,9 +73,11 @@ export interface CompetitorComparisonViewProps {
 
 
 
+
 export interface TableNameProps {
   className?: any;
 }
+
 
 
 
@@ -80,9 +89,11 @@ export interface InvestorsViewProps {
 
 
 
+
 export interface InvestorCardProps {
   className?: any;
 }
+
 
 
 
@@ -94,6 +105,7 @@ export interface BuyReasonsProps {
 
 
 
+
 export interface ReasonCardProps {
   className?: any;
 }
@@ -101,9 +113,11 @@ export interface ReasonCardProps {
 
 
 
+
 export interface HowItWorksViewProps {
   className?: any;
 }
+
 
 
 
@@ -173,9 +187,11 @@ export interface PointProps {
 
 
 
+
 export interface LaunchpadAndExchangesViewProps {
   className?: any;
 }
+
 
 
 
@@ -187,15 +203,20 @@ export interface BuyViewProps {
 
 
 
+
 export interface BuyOptionProps {
   className?: any;
 }
 
 
 
+
 export interface EmailViewProps {
   className?: any;
 }
+
+
+
 
 
 
@@ -210,9 +231,11 @@ export interface SampleCardProps {
 
 
 
+
 export interface SampleCardGridProps {
   className?: any;
 }
+
 
 
 
@@ -224,9 +247,11 @@ export interface Frame7Props {
 
 
 
+
 export interface Frame13Props {
   className?: any;
 }
+
 
 
 
@@ -238,9 +263,11 @@ export interface Frame39895Props {
 
 
 
+
 export interface Frame39900Props {
   className?: any;
 }
+
 
 
 
@@ -252,9 +279,11 @@ export interface Frame39902Props {
 
 
 
+
 export interface Frame39909Props {
   className?: any;
 }
+
 
 
 
@@ -266,9 +295,11 @@ export interface Frame39913Props {
 
 
 
+
 export interface Frame39917Props {
   className?: any;
 }
+
 
 
 
@@ -280,9 +311,11 @@ export interface Frame39923Props {
 
 
 
+
 export interface Frame39921Props {
   className?: any;
 }
+
 
 
 
